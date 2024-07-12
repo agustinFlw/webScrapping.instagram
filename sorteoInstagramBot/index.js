@@ -4,21 +4,13 @@ import fs from "fs";
 
 //ingrese usuario:
 
-// const user = "unajaimita"
-// const user = "unjaimito"
-// const user = "brtuca"
-//const user = "ag.zzh"
- const user = "nacho_hz.ok"
+ const user = "completar"
 
 //ingrese contraseña:
-
-//const password = "limonada1"
- const password = "juanmiputaloka"
+ const password = "completar"
 
 // ingrese link de la publicacion del sorteo
-// const linkSorteo = "https://www.instagram.com/p/C8VUo0isQQl/?hl=es-la"
-const linkSorteo = "https://www.instagram.com/p/C8fvkHIpRpE/?hl=es-la"
-// const linkSorteo = "https://www.instagram.com/p/C8F7xq2vy5T/?hl=es-la" //sorteo taladro
+const linkSorteo = "completar"
 
 // ajustes-----------------------------
 const cantArroba = 1; // ingrese cantidad de @ por comentario
