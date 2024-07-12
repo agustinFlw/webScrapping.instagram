@@ -1,20 +1,13 @@
 import puppeteer from "puppeteer";
 import fs from "fs"
 
-// "nacho_hz.ok"
-// "juanmiputaloka"
-
-// "brtuca"
-// "unjaimito"
-// "limonada1"
-
 
 //ingrese usuario:
-const user = "unajaimita"
+const user = "completar"
 //ingrese contraseña:
-const password = "limonada1"
+const password = "completar"
 // perfil de instagram:
-const IgProfile = "https://www.instagram.com/argentismo/?hl=es-la"
+const IgProfile = "completar"
 
 // modo 1: extraer seguidos
 // modo 2: extraer seguidores
